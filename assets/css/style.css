@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 30px;
 }
 #hero .social-links a {
-  font-size: 24px;
+  font-size: 34px;
   display: inline-block;
   color: #45505b;
   line-height: 1;
@@ -774,4 +774,7 @@ section {
 }
 #footer .credits {
   font-size: 13px;
+}
+#icons{
+    font-size: 3em;
 }
